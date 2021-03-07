@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SportApp/MyCollectionViewController.swift"
+            timestampString = "636751929.934459"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "142"
+            endingLineNumber = "142"
+            landmarkName = "collectionView(_:didSelectItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SportApp/LeagueDetailsCollectionViewCell.swift"
+            timestampString = "636764684.121799"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "162"
+            endingLineNumber = "162"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SportApp/AllLeaguesTableViewController.swift"
+            timestampString = "636686720.431157"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "AllLeaguesTableViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SportApp.AllLeaguesTableViewController.arr_category_sport.getter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "SportApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macossierra/Desktop/Swift/SportApp/SportApp/AllLeaguesTableViewController.swift"
+                  timestampString = "636227862.659631"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "114">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SportApp.AllLeaguesTableViewController.arr_category_sport.setter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "SportApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macossierra/Desktop/Swift/SportApp/SportApp/AllLeaguesTableViewController.swift"
+                  timestampString = "636227862.663716"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SportApp.AllLeaguesTableViewController.arr_category_sport.modify : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "SportApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macossierra/Desktop/Swift/SportApp/SportApp/AllLeaguesTableViewController.swift"
+                  timestampString = "636227862.667636"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SportApp.AllLeaguesTableViewController.arr_category_sport.modify : Swift.Array&lt;Swift.String&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "SportApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macossierra/Desktop/Swift/SportApp/SportApp/AllLeaguesTableViewController.swift"
+                  timestampString = "636227862.672155"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SportApp.AllLeaguesTableViewController.init(style: __C.UITableViewStyle) -&gt; SportApp.AllLeaguesTableViewController"
+                  moduleName = "SportApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macossierra/Desktop/Swift/SportApp/SportApp/AllLeaguesTableViewController.swift"
+                  timestampString = "636227862.67607"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "768">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SportApp.AllLeaguesTableViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; SportApp.AllLeaguesTableViewController"
+                  moduleName = "SportApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macossierra/Desktop/Swift/SportApp/SportApp/AllLeaguesTableViewController.swift"
+                  timestampString = "636227862.68024"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "864">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SportApp.AllLeaguesTableViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;SportApp.AllLeaguesTableViewController&gt;"
+                  moduleName = "SportApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macossierra/Desktop/Swift/SportApp/SportApp/AllLeaguesTableViewController.swift"
+                  timestampString = "636227862.684775"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "776">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SportApp/LeagueDetailsCollectionViewCell.swift"
+            timestampString = "636764684.121941"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "199"
+            endingLineNumber = "199"
+            landmarkName = "LeagueDetailsCollectionViewCell"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
